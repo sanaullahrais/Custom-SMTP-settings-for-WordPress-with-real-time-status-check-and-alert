@@ -19,4 +19,4 @@ This plugin allows you to configure SMTP settings directly from the WordPress Cu
 
 1. **Clone the repository**:
    ```sh
-   git clone [https://github.com/your-username/wordpress-smtp-settings.git](https://github.com/sanaullahrais/Custom-SMTP-settings-for-WordPress-with-real-time-status-check-and-alert.git)
+   git clone [https://github.com/sanaullahrais/Custom-SMTP-settings-for-WordPress-with-real-time-status-check-and-alert.git)
