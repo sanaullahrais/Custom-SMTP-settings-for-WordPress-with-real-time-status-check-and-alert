@@ -1,4 +1,4 @@
-# WordPress SMTP Settings
+# Custom SMTP settings for WordPress with real-time status check.
 
 Custom SMTP settings for WordPress with real-time status check.
 
